@@ -34,6 +34,10 @@ This project is a backend system for a company that monitors patients' heart rat
    ```bash
    git clone https://github.com/sivanarayanamiriyala/janitriassignment
 
+#### Understanding API Calls
+
+you can use Postman API to understand the request and responses
+
 ### API Setup
 
 User APIs
